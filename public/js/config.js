@@ -4,7 +4,7 @@ const WEB = {
 };
 
 const USER = {
-    username: "Hà Kỳ Anh",
+    username: "Bùi Quang Hiệu",
     blueTick: true,
     avatar: "tat.png",
     skills: [
@@ -13,17 +13,41 @@ const USER = {
     ],
     banks: [
         {
-            name: "Momo",
+            name: "VIETCOMBANK",
             logo: "momo.png",
-            number: "0964018360",
-            owner: "Hà Kỳ Anh",
+            number: "1014.535.532",
+            owner: "BUI QUANG HIEU",
             fastTransfer: true
         },
         {
-            name: "MB Bank",
+            name: "MB BANK",
             logo: "mbbank.png",
-            number: "0964018360",
-            owner: "Hà Kỳ Anh"
+            number: "0666.88888.9999",
+            owner: "BUI QUANG HIEU"
+        },
+    ]
+};
+        {
+            name: "MOMO",
+            logo: "mmomo.png",
+            number: "08.4321.7283",
+            owner: "BUI QUANG HIEU"
+        },
+    ]
+};
+        {
+            name: "ZALO PAY",
+            logo: "mmomo.png",
+            number: "08.4321.7283",
+            owner: "BUI QUANG HIEU"
+        },
+    ]
+};
+        {
+            name: "VIETTEL PAY",
+            logo: "mmomo.png",
+            number: "08.4321.7283",
+            owner: "BUI QUANG HIEU"
         },
     ]
 };
